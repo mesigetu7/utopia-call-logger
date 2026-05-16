@@ -1,0 +1,4 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+html, body { height: 100%; background: #0D0D0D; }
+body { font-family: 'DM Mono', monospace; color: #F0EDE8; -webkit-font-smoothing: antialiased; }
+input, textarea, button { font-family: inherit; }
